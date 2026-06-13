@@ -2,8 +2,8 @@
 <h3 align="center">Information Systems Student · Backend Developer · Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/claudemir-adriano-de-albuquerque-silva-a0576a368">LinkedIn</a> ·
-  <a href="mailto:caas@cesar.school">Email</a> ·
+  <a href="https://www.linkedin.com/in/claudemir-adriano-de-albuquerque-silva-a0576a368">LinkedIn</a> ·
+  caas@cesar.school ·
   Recife, Brazil
 </p>
 
@@ -14,7 +14,7 @@
 3rd-semester Information Systems student at **CESAR School**, Recife. I build projects across backend development, cybersecurity, and game development — with a focus on turning ideas into working, documented software.
 
 - 🔐 Ethical Hacking certification (Brazilian Army School of Communications)
-- 🐍 Python · Java · C · JavaScript · C++ · Assembly MIPS
+- 🐍 Python · Java · C · JavaScript · C++ · Assembly MIPS · React · HTMl + CSS ·
 - 🚀 Atualmente em desenvolvimento: **[GreenEden](https://github.com/danielProcopio15/GreenEden)** e **[Kraln Game](https://github.com/Adriano-Dev22/Kraln_Game)**
 
 ---
@@ -29,19 +29,24 @@
 | [AsyncLedger](https://github.com/Adriano-Dev22/AsyncLedger-Pipeline-ass-ncrono-de-processamento-financeiro) | Pipeline de processamento financeiro assíncrono com Celery e dead-letter queues | Python · FastAPI · Docker |
 | [Batalha Naval](https://github.com/Adriano-Dev22/batalha-naval) | Implementação do jogo Batalha Naval em C com lógica modular de tabuleiro | C |
 | [Gerador de Imagens](https://github.com/Adriano-Dev22/projeto-gerador-imagens) | Gerador de imagens com interface de prompts via IA | HTML · JavaScript |
-| [JC Projetos 2](https://github.com/Rafaellc-DEV/jc-projetos2) | Aplicação web com design adaptável, focada em melhorar a experiência de leitura de notícias | HTML · Python · CSS |
+| [JC Projetos 2](https://github.com/Rafaellc-DEV/jc-projetos2) | Aplicação web com design adaptável, focada em melhorar a experiência de leitura de notícias | HTML · Python · CSS · Django |
 | [Landing Page Future Shop](https://github.com/Adriano-Dev22/landing-page-future-shop) | Landing page responsiva para conceito de e-commerce | HTML · CSS |
 
 ---
 
 ### 🛠️ Tech Stack
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
 
